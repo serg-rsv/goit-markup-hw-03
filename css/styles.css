@@ -162,6 +162,8 @@ body {
 
   background-color: var(--accent);
   color: var(--color-main);
+
+  cursor: pointer;
 }
 
 /* Секция Особенности */
