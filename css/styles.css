@@ -4,7 +4,7 @@
   --bg-color-second: #2f303a;
   --bg-color-addition: #f5f4fa;
 
-  --border-color: #ececec;
+  --border-color: #eeeeee;
 
   --text-color: #757575;
   --title-color: #212121;
@@ -355,9 +355,9 @@ body {
   padding-bottom: 20px;
   padding-left: 24px;
 
-  border-left: 1px solid var(--border-color);
-  border-right: 1px solid var(--border-color);
-  border-bottom: 1px solid var(--border-color);
+  border-left: 1px solid #ececec;
+  border-right: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 .portfolio-title {
   margin-bottom: 4px;
