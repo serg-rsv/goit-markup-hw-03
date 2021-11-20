@@ -19,6 +19,7 @@ img {
 
 a {
   text-decoration: none;
+  font-style: normal;
 }
 
 h1,
@@ -137,6 +138,10 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   background-color: var(--bg-color-second);
+}
+
+.section-intro > .container {
+  padding: 200px 0;
 }
 
 .title-main {
